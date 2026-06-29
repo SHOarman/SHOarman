@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWoxZ2g4dGZ3a3g0ZXN3cjFvMXVqMzh3bW53Z2d3bXN5dzF2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer Coding" width="450" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIzbnd5MnUxa280NXh3Ym9mbDBlbHFia3EydDlyMHF6aWtlOGx5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/I7n6iU994Hqre8cg99/giphy.gif" alt="Flutter & Dart Coding Animation" width="450" />
 </p>
 
 <hr>

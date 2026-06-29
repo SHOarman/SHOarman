@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cybermouflons/cybermouflons/master/coding_developer.gif" alt="Developer Coding" width="450" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749321-df6be6f4-a4f7-4dc3-8173-199f57fe3c5d.gif" alt="Developer Coding" width="450" />
 </p>
 
 <hr>

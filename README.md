@@ -65,22 +65,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SHOarman&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats" />
-  <img height="180" src="https://nirzak-streak-stats.vercel.app/?user=SHOarman&theme=dark&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-stats-extended.vercel.app/api?username=SHOarman&theme=dark&show_icons=true&include_all_commits=true" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHOarman&theme=dark&hide_border=true&layout=compact" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com/?user=SHOarman&theme=dark&hide_border=true" alt="GitHub streak" />
 </p>
 
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SHOarman&theme=darkhub&no-frame=true&no-bg=true&margin-w=6" alt="GitHub trophies" />
-</p>
-
-## 🔝 Top Contributed Repository
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=SHOarman&limit=5&theme=gruvbox&combine_all_yearly_contributions=true" alt="Top contributed repositories" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SHOarman&theme=dark&layout=compact" alt="Top languages" />
 </p>

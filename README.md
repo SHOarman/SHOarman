@@ -1,4 +1,4 @@
-## Hi there 👋 I am flutter developer
+##Flutter Developer | Android, iOS & Web
 
 - 🔭 I’m currently working on flutter developer
 
